@@ -4,8 +4,8 @@
     "author": "Axel",
     "title": "Prueba #1",
     "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789807470926.jpg",
-    "likes": 0,
-    "likedByMe": false,
+    "likes": 1,
+    "likedByMe": true,
     "comments": []
   }
 ]
