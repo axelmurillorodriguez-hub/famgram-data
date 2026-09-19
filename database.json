@@ -5,7 +5,12 @@
     "title": "Colores",
     "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789824034968.jpg",
     "likesList": [],
-    "comments": []
+    "comments": [
+      {
+        "author": "Sofía",
+        "text": "Antes de subir esta intenté subir otra y me salió un cuadro que decía error intente subir otra fotografía"
+      }
+    ]
   },
   {
     "id": 1789807521319,
