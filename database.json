@@ -3,22 +3,26 @@
     {
       "name": "Axel",
       "role": "Administrador",
-      "emoji": "👦"
+      "emoji": "👦",
+      "pass": "1234"
     },
     {
       "name": "Mamá",
       "role": "Familiar",
-      "emoji": "👩"
+      "emoji": "👩",
+      "pass": "1234"
     },
     {
       "name": "Papá",
       "role": "Familiar",
-      "emoji": "👨"
+      "emoji": "👨",
+      "pass": "1234"
     },
     {
       "name": "Hermana",
       "role": "Familiar",
-      "emoji": "👧"
+      "emoji": "👧",
+      "pass": "1234"
     }
   ],
   "posts": [
@@ -30,7 +34,8 @@
       "likesList": [
         "dev_bed99fng1us",
         "dev_bljy5656ww",
-        "dev_rts6uyxsfoo"
+        "dev_rts6uyxsfoo",
+        "Axel"
       ],
       "comments": [
         {
