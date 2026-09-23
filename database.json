@@ -1,144 +1,169 @@
-[
-  {
-    "id": 1789925772354,
-    "author": "Almak10",
-    "title": "Un michi",
-    "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789925770552.jpg",
-    "likesList": [
-      "dev_bed99fng1us",
-      "dev_bljy5656ww"
-    ],
-    "comments": [
-      {
-        "author": "Axel",
-        "text": "Michi más hermoso amor"
-      }
-    ]
-  },
-  {
-    "id": 1789843588333,
-    "author": "Axel",
-    "title": "El rey de la casa",
-    "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789843586636.jpg",
-    "likesList": [
-      "dev_bed99fng1us"
-    ],
-    "comments": [
-      {
-        "author": "Almak10",
-        "text": "Aaaaa mi debilidad 😭❤️❤️"
-      },
-      {
-        "author": "Sofía",
-        "text": "El rey? Él se cree, pero nooo 😂😂😂"
-      }
-    ]
-  },
-  {
-    "id": 1789842908185,
-    "author": "Pulguita",
-    "title": "Flores",
-    "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789842906350.jpg",
-    "likesList": [
-      "dev_4ap0u5953y9",
-      "dev_jxhdo5hqsqj",
-      "dev_bed99fng1us",
-      "dev_1hb5feiwfryj"
-    ],
-    "comments": [
-      {
-        "author": "Axel",
-        "text": "Flores más lindas amor."
-      },
-      {
-        "author": "Sofía",
-        "text": "Hermosa obra de arte"
-      }
-    ]
-  },
-  {
-    "id": 1789842870833,
-    "author": "Alma",
-    "title": "Una mujer",
-    "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789842868917.jpg",
-    "likesList": [
-      "dev_jxhdo5hqsqj",
-      "dev_4ap0u5953y9",
-      "dev_bed99fng1us",
-      "dev_1hb5feiwfryj"
-    ],
-    "comments": [
-      {
-        "author": "Almak10",
-        "text": "Esta hermoso ❤️❤️❤️"
-      },
-      {
-        "author": "Axel",
-        "text": "Es una gran obra de arte amor"
-      },
-      {
-        "author": "Sofía",
-        "text": "Amor hermoso,!"
-      }
-    ]
-  },
-  {
-    "id": 1789824037538,
-    "author": "Sofía",
-    "title": "Colores",
-    "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789824034968.jpg",
-    "likesList": [
-      "dev_jxhdo5hqsqj",
-      "dev_bed99fng1us",
-      "dev_1hb5feiwfryj"
-    ],
-    "comments": [
-      {
-        "author": "Sofía",
-        "text": "Antes de subir esta intenté subir otra y me salió un cuadro que decía error intente subir otra fotografía"
-      }
-    ]
-  },
-  {
-    "id": 1789807521319,
-    "author": "Axel Mac",
-    "title": "Prueba #2",
-    "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789807518962.jpg",
-    "likesList": [
-      "dev_paiqko8uwh9",
-      "dev_jxhdo5hqsqj",
-      "dev_1hb5feiwfryj"
-    ],
-    "comments": [
-      {
-        "author": "Axelito",
-        "text": "Prueba de comentario"
-      },
-      {
-        "author": "Axelin",
-        "text": "Prueba de comentario #2"
-      }
-    ]
-  },
-  {
-    "id": 1789807472744,
-    "author": "Axel",
-    "title": "Prueba #1",
-    "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789807470926.jpg",
-    "likesList": [
-      "dev_paiqko8uwh9",
-      "dev_jxhdo5hqsqj",
-      "dev_1hb5feiwfryj"
-    ],
-    "comments": [
-      {
-        "author": "Axel",
-        "text": "Prueba #1"
-      },
-      {
-        "author": "Sofía",
-        "text": "Qué rico"
-      }
-    ]
-  }
-]
+{
+  "users": [
+    {
+      "name": "Axel",
+      "role": "Administrador",
+      "emoji": "👦"
+    },
+    {
+      "name": "Mamá",
+      "role": "Familiar",
+      "emoji": "👩"
+    },
+    {
+      "name": "Papá",
+      "role": "Familiar",
+      "emoji": "👨"
+    },
+    {
+      "name": "Hermana",
+      "role": "Familiar",
+      "emoji": "👧"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1789925772354,
+      "author": "Almak10",
+      "title": "Un michi",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789925770552.jpg",
+      "likesList": [
+        "dev_bed99fng1us",
+        "dev_bljy5656ww",
+        "dev_rts6uyxsfoo"
+      ],
+      "comments": [
+        {
+          "author": "Axel",
+          "text": "Michi más hermoso amor"
+        }
+      ]
+    },
+    {
+      "id": 1789843588333,
+      "author": "Axel",
+      "title": "El rey de la casa",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789843586636.jpg",
+      "likesList": [
+        "dev_bed99fng1us"
+      ],
+      "comments": [
+        {
+          "author": "Almak10",
+          "text": "Aaaaa mi debilidad 😭❤️❤️"
+        },
+        {
+          "author": "Sofía",
+          "text": "El rey? Él se cree, pero nooo 😂😂😂"
+        }
+      ]
+    },
+    {
+      "id": 1789842908185,
+      "author": "Pulguita",
+      "title": "Flores",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789842906350.jpg",
+      "likesList": [
+        "dev_4ap0u5953y9",
+        "dev_jxhdo5hqsqj",
+        "dev_bed99fng1us",
+        "dev_1hb5feiwfryj"
+      ],
+      "comments": [
+        {
+          "author": "Axel",
+          "text": "Flores más lindas amor."
+        },
+        {
+          "author": "Sofía",
+          "text": "Hermosa obra de arte"
+        }
+      ]
+    },
+    {
+      "id": 1789842870833,
+      "author": "Alma",
+      "title": "Una mujer",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789842868917.jpg",
+      "likesList": [
+        "dev_jxhdo5hqsqj",
+        "dev_4ap0u5953y9",
+        "dev_bed99fng1us",
+        "dev_1hb5feiwfryj"
+      ],
+      "comments": [
+        {
+          "author": "Almak10",
+          "text": "Esta hermoso ❤️❤️❤️"
+        },
+        {
+          "author": "Axel",
+          "text": "Es una gran obra de arte amor"
+        },
+        {
+          "author": "Sofía",
+          "text": "Amor hermoso,!"
+        }
+      ]
+    },
+    {
+      "id": 1789824037538,
+      "author": "Sofía",
+      "title": "Colores",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789824034968.jpg",
+      "likesList": [
+        "dev_jxhdo5hqsqj",
+        "dev_bed99fng1us",
+        "dev_1hb5feiwfryj"
+      ],
+      "comments": [
+        {
+          "author": "Sofía",
+          "text": "Antes de subir esta intenté subir otra y me salió un cuadro que decía error intente subir otra fotografía"
+        }
+      ]
+    },
+    {
+      "id": 1789807521319,
+      "author": "Axel Mac",
+      "title": "Prueba #2",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789807518962.jpg",
+      "likesList": [
+        "dev_paiqko8uwh9",
+        "dev_jxhdo5hqsqj",
+        "dev_1hb5feiwfryj"
+      ],
+      "comments": [
+        {
+          "author": "Axelito",
+          "text": "Prueba de comentario"
+        },
+        {
+          "author": "Axelin",
+          "text": "Prueba de comentario #2"
+        }
+      ]
+    },
+    {
+      "id": 1789807472744,
+      "author": "Axel",
+      "title": "Prueba #1",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1789807470926.jpg",
+      "likesList": [
+        "dev_paiqko8uwh9",
+        "dev_jxhdo5hqsqj",
+        "dev_1hb5feiwfryj"
+      ],
+      "comments": [
+        {
+          "author": "Axel",
+          "text": "Prueba #1"
+        },
+        {
+          "author": "Sofía",
+          "text": "Qué rico"
+        }
+      ]
+    }
+  ]
+}
