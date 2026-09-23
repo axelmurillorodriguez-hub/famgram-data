@@ -27,6 +27,14 @@
   ],
   "posts": [
     {
+      "id": 1790129727891,
+      "author": "Mamá",
+      "title": "Amorcito",
+      "image": "https://raw.githubusercontent.com/axelmurillorodriguez-hub/famgram-data/main/images/img_1790129726083.jpg",
+      "likesList": [],
+      "comments": []
+    },
+    {
       "id": 1789925772354,
       "author": "Almak10",
       "title": "Un michi",
